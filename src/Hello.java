@@ -8,7 +8,7 @@ public class Hello {
         int myThirdNum =20;
         int myFourthNum = 30
         int myTotal = myFirstNum+mySecondNum+myThirdNum+myFourthNum;
-        System.out.print("Sum = ");
+        System.out.print("Sumary = ");
         System.out.println(myTotal);
     }
 }
