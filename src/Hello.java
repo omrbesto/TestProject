@@ -6,7 +6,8 @@ public class Hello {
         int myFirstNum = 5;
         int mySecondNum = 10;
         int myThirdNum =20;
-        int myTotal = myFirstNum+mySecondNum+myThirdNum;
+        int myFourthNum = 30
+        int myTotal = myFirstNum+mySecondNum+myThirdNum+myFourthNum;
         System.out.println(myTotal);
     }
 }
