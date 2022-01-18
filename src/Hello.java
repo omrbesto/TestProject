@@ -6,9 +6,14 @@ public class Hello {
         int myFirstNum = 5;
         int mySecondNum = 10;
         int myThirdNum =20;
-        int myFourthNum = 30
+        int myFourthNum = 30;
         int myTotal = myFirstNum+mySecondNum+myThirdNum+myFourthNum;
+        Hello();
         System.out.print("Summary = ");
         System.out.println(myTotal);
+    }
+
+    public static void Hello(){
+        System.out.println("Hello World");
     }
 }
